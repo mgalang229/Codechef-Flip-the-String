@@ -25,7 +25,7 @@ int main() {
 					// until it encounters a character that matches the character in string 'b'
 					i += 2;
 				}
-				// increment 'cnt' (one operating per substring)
+				// increment 'cnt' (one operation per substring)
 				cnt++;
 			}
 		}
